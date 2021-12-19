@@ -1,4 +1,4 @@
--- demo device script
+-- demo device script 2
 -- script names have three name components: script_trigger_name.lua
 -- trigger can be 'time' or 'device', name can be any string
 -- domoticz will execute all time and device triggers when the relevant trigger occurs
